@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /template-pages/
+
+Sitemap: https://eliasolsson.github.io/sitemap.xml
